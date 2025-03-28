@@ -1,0 +1,1 @@
+# Proyecto_Zyfra_mineral_oro
