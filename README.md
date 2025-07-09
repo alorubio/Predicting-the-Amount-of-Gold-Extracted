@@ -1,8 +1,10 @@
-# Proyecto_Zyfra_mineral_oro
+# Predicting the Amount of Gold Extracted
 
-## Objetivo
-Preparar un prototipo de un modelo de machine learning para Zyfra. La empresa desarrolla soluciones de eficiencia para la industria pesada.
+## Objective
+To prototype a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry.
 
-El modelo debe predecir la cantidad de oro extraído del mineral de oro.
+The model should predict the amount of gold extracted from gold ore.
 
-El modelo ayudará a optimizar la producción y a eliminar los parámetros no rentables.
+The model will help optimize production and eliminate unprofitable parameters.
+
+**Explore the details in the [complete project](https://github.com/alorubio/Proyecto_Zyfra_mineral_oro/blob/8e466ed805225fc7c4a14f14d99491f158cfbbea/Proyecto_9_Zyfra_mineral_oro.ipynb).**
